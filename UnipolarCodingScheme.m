@@ -1,5 +1,4 @@
 function [ output_args ] = UnipolarCodingScheme( input_args )
-%UNTITLED5 Summary of this function goes here
 %   Detailed explanation goes here
 x=[1 0 1 1 0 1];
 
